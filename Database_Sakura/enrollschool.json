@@ -1,0 +1,126 @@
+[
+{
+    "_id": {
+        "$oid": "687bc0b368b9c3b405a0d86b"
+    },
+    "enrollCode": "STUEN-20250719002",
+    "studentName": "Bùi Trung Kiên",
+    "studentAge": 1,
+    "studentDob": {
+        "$date": "2024-12-01T00:00:00Z"
+    },
+    "studentGender": "male",
+    "parentName": "Bùi Trung Thịnh",
+    "parentGender": "male",
+    "parentDob": {
+        "$date": "1972-12-01T00:00:00Z"
+    },
+    "IDCard": "015203001123",
+    "address": "Hà Nội",
+    "phoneNumber": "0913339709",
+    "email": "trunghieubui866@gmail.com",
+    "relationship": "father",
+    "reason": "Nhập học",
+    "note": "Dị ứng",
+    "state": "Hoàn thành",
+    "createdAt": {
+        "$date": "2025-07-19T15:58:43.333Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T15:59:51.726Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc757a6d6286fa2252aec"
+    },
+    "enrollCode": "STUEN-20250719003",
+    "studentName": "Bùi trung hiếu",
+    "studentAge": 0,
+    "studentDob": {
+        "$date": "2025-07-31T00:00:00Z"
+    },
+    "studentGender": "male",
+    "parentName": "Phạm Hà Thư",
+    "parentGender": "male",
+    "parentDob": {
+        "$date": "1999-07-09T00:00:00Z"
+    },
+    "IDCard": "002154477789",
+    "address": "123, sơn tây",
+    "phoneNumber": "0365985412",
+    "email": "kiend1364@gmail.com",
+    "relationship": "father",
+    "reason": "Nhập học",
+    "note": "Yếu",
+    "state": "Chờ xác nhận",
+    "createdAt": {
+        "$date": "2025-07-19T16:27:03.117Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T16:27:03.117Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc894a6d6286fa2252af1"
+    },
+    "enrollCode": "STUEN-20250719004",
+    "studentName": "Bùi trung hiếu",
+    "studentAge": 0,
+    "studentDob": {
+        "$date": "2025-07-16T00:00:00Z"
+    },
+    "studentGender": "male",
+    "parentName": "Bùi Hiếu",
+    "parentGender": "male",
+    "parentDob": {
+        "$date": "1989-07-19T00:00:00Z"
+    },
+    "IDCard": "001222544478",
+    "address": "123, Sơn tây",
+    "phoneNumber": "0326598741",
+    "email": "kiend1364@gmail.com",
+    "relationship": "mother",
+    "reason": "Nhập học",
+    "note": "Yếu",
+    "state": "Chờ xác nhận",
+    "createdAt": {
+        "$date": "2025-07-19T16:32:20.255Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T16:32:20.255Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bbfbc68b9c3b405a0d83e"
+    },
+    "enrollCode": "STUEN-20250719001",
+    "studentName": "Bùi Trung Hiếu",
+    "studentAge": 1,
+    "studentDob": {
+        "$date": "2024-01-12T00:00:00Z"
+    },
+    "studentGender": "male",
+    "parentName": "Bùi Trung Thịnh",
+    "parentGender": "male",
+    "parentDob": {
+        "$date": "1972-01-12T00:00:00Z"
+    },
+    "IDCard": "015203001123",
+    "address": "Hà Nội",
+    "phoneNumber": "0913339709",
+    "email": "trunghieubui866@gmail.com",
+    "relationship": "father",
+    "reason": "Nhập học",
+    "note": "Dị ứng",
+    "state": "Hoàn thành",
+    "createdAt": {
+        "$date": "2025-07-19T15:54:36.632Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T15:55:41.195Z"
+    }
+}
+]

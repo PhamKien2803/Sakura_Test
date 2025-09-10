@@ -1,0 +1,1278 @@
+[
+{
+    "_id": {
+        "$oid": "687c91e7be4e221c96004438"
+    },
+    "weekStart": {
+        "$date": "2025-07-21T00:00:00Z"
+    },
+    "ageCategory": 2,
+    "dailyMenus": [
+        {
+            "date": {
+                "$date": "2025-07-21T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa TH dâu",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044de"
+                    }
+                },
+                {
+                    "dishName": "Cháo gà",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044df"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044e0"
+                    }
+                },
+                {
+                    "dishName": "Sườn",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044e1"
+                    }
+                },
+                {
+                    "dishName": "Cá",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044e2"
+                    }
+                },
+                {
+                    "dishName": "Bia",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044e3"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Sinh tố lúa mạch",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044e4"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044dd"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-22T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Cá",
+                    "_id": {
+                        "$oid": "687c924fbe4e221c960044e6"
+                    }
+                }
+            ],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044e5"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-23T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044e7"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-24T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044e8"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-25T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044e9"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-26T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044ea"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-27T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c924fbe4e221c960044eb"
+            }
+        }
+    ],
+    "createdAt": {
+        "$date": "2025-07-20T06:51:19.169Z"
+    },
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "687c90711287b1ec3347baff"
+    },
+    "weekStart": {
+        "$date": "2025-07-21T00:00:00Z"
+    },
+    "ageCategory": 1,
+    "dailyMenus": [
+        {
+            "date": {
+                "$date": "2025-07-21T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb01"
+                    }
+                },
+                {
+                    "dishName": "Bánh mì",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb02"
+                    }
+                },
+                {
+                    "dishName": "Cháo",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb03"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb04"
+                    }
+                },
+                {
+                    "dishName": "Thịt băm",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb05"
+                    }
+                },
+                {
+                    "dishName": "Canh rau",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb06"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Súp",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb07"
+                    }
+                },
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb08"
+                    }
+                },
+                {
+                    "dishName": "Hoa quả",
+                    "_id": {
+                        "$oid": "687c90711287b1ec3347bb09"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb00"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-22T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb0a"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-23T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb0b"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-24T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb0c"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-25T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb0d"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-26T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb0e"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-27T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c90711287b1ec3347bb0f"
+            }
+        }
+    ],
+    "createdAt": {
+        "$date": "2025-07-20T06:45:05.297Z"
+    },
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "687c9933be4e221c96004a19"
+    },
+    "weekStart": {
+        "$date": "2025-07-21T00:00:00Z"
+    },
+    "ageCategory": 5,
+    "dailyMenus": [
+        {
+            "date": {
+                "$date": "2025-07-21T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a1b"
+                    }
+                },
+                {
+                    "dishName": "Bún riêu",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a1c"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a1d"
+                    }
+                },
+                {
+                    "dishName": "Cá sốt cà",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a1e"
+                    }
+                },
+                {
+                    "dishName": "Canh cải ngọt",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a1f"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo gà",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a20"
+                    }
+                },
+                {
+                    "dishName": "Bánh mì",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a21"
+                    }
+                },
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a22"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a1a"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-22T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a24"
+                    }
+                },
+                {
+                    "dishName": "Bánh mì thịt nguội",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a25"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a26"
+                    }
+                },
+                {
+                    "dishName": "Gà kho",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a27"
+                    }
+                },
+                {
+                    "dishName": "Canh rau dền",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a28"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo tôm",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a29"
+                    }
+                },
+                {
+                    "dishName": "Trái cây",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a2a"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a23"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-23T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a2c"
+                    }
+                },
+                {
+                    "dishName": "Xôi ruốc",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a2d"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a2e"
+                    }
+                },
+                {
+                    "dishName": "Thịt bò xào",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a2f"
+                    }
+                },
+                {
+                    "dishName": "Canh mướp",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a30"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Súp trứng",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a31"
+                    }
+                },
+                {
+                    "dishName": "Sữa chua",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a32"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a2b"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-24T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a34"
+                    }
+                },
+                {
+                    "dishName": "Mì Ý",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a35"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a36"
+                    }
+                },
+                {
+                    "dishName": "Thịt heo rim",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a37"
+                    }
+                },
+                {
+                    "dishName": "Canh bí xanh",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a38"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo thịt",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a39"
+                    }
+                },
+                {
+                    "dishName": "Dưa hấu",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a3a"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a33"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-25T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a3c"
+                    }
+                },
+                {
+                    "dishName": "Bánh cuốn",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a3d"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a3e"
+                    }
+                },
+                {
+                    "dishName": "Cá hấp gừng",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a3f"
+                    }
+                },
+                {
+                    "dishName": "Canh rau ngót",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a40"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Súp gà",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a41"
+                    }
+                },
+                {
+                    "dishName": "Chuối",
+                    "_id": {
+                        "$oid": "687c9933be4e221c96004a42"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a3b"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-26T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a43"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-27T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9933be4e221c96004a44"
+            }
+        }
+    ],
+    "createdAt": {
+        "$date": "2025-07-20T07:22:27.465Z"
+    },
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "687c9a4fbe4e221c96004ee0"
+    },
+    "weekStart": {
+        "$date": "2025-07-14T00:00:00Z"
+    },
+    "ageCategory": 1,
+    "dailyMenus": [
+        {
+            "date": {
+                "$date": "2025-07-14T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee1"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-15T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee2"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-16T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee3"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-17T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee4"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-18T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee5"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-19T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee6"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-20T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004ee8"
+                    }
+                },
+                {
+                    "dishName": "Cháo thịt băm",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004ee9"
+                    }
+                },
+                {
+                    "dishName": "Khoai lang hấp",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004eea"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cháo thịt bò",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004eeb"
+                    }
+                },
+                {
+                    "dishName": "Cải ngọt",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004eec"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo đậu xanh",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004eed"
+                    }
+                },
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9a4fbe4e221c96004eee"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9a4fbe4e221c96004ee7"
+            }
+        }
+    ],
+    "createdAt": {
+        "$date": "2025-07-20T07:27:11.660Z"
+    },
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "687c97c1be4e221c960046bd"
+    },
+    "weekStart": {
+        "$date": "2025-07-21T00:00:00Z"
+    },
+    "ageCategory": 3,
+    "dailyMenus": [
+        {
+            "date": {
+                "$date": "2025-07-21T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004888"
+                    }
+                },
+                {
+                    "dishName": "Bánh mì trứng",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004889"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600488a"
+                    }
+                },
+                {
+                    "dishName": "Thịt gà kho",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600488b"
+                    }
+                },
+                {
+                    "dishName": "Canh rau ngót",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600488c"
+                    }
+                },
+                {
+                    "dishName": "Dưa hấu",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600488d"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo tôm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600488e"
+                    }
+                },
+                {
+                    "dishName": "Bí đỏ",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600488f"
+                    }
+                },
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004890"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c98c0be4e221c96004887"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-22T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004892"
+                    }
+                },
+                {
+                    "dishName": "Phở bò",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004893"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004894"
+                    }
+                },
+                {
+                    "dishName": "Cá kho",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004895"
+                    }
+                },
+                {
+                    "dishName": "Canh cải ngọt",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004896"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Súp thịt bằm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004897"
+                    }
+                },
+                {
+                    "dishName": "Trái cây",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c96004898"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c98c0be4e221c96004891"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-23T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600489a"
+                    }
+                },
+                {
+                    "dishName": "Bún chả",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600489b"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600489c"
+                    }
+                },
+                {
+                    "dishName": "Thịt bò xào",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600489d"
+                    }
+                },
+                {
+                    "dishName": "Canh mồng tơi",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600489e"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo thịt gà",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c9600489f"
+                    }
+                },
+                {
+                    "dishName": "Sữa chua",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a0"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c98c0be4e221c96004899"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-24T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a2"
+                    }
+                },
+                {
+                    "dishName": "Mì trứng",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a3"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a4"
+                    }
+                },
+                {
+                    "dishName": "Thịt kho trứng",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a5"
+                    }
+                },
+                {
+                    "dishName": "Canh rau",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a6"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Súp cua",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a7"
+                    }
+                },
+                {
+                    "dishName": "Cam",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048a8"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c98c0be4e221c960048a1"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-25T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c98c0be4e221c960048a9"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-26T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048ab"
+                    }
+                },
+                {
+                    "dishName": "Bánh bao",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048ac"
+                    }
+                },
+                {
+                    "dishName": "Trứng luộc",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048ad"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048ae"
+                    }
+                },
+                {
+                    "dishName": "Tôm rim",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048af"
+                    }
+                },
+                {
+                    "dishName": "Canh rau cải",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b0"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo đậu xanh",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b1"
+                    }
+                },
+                {
+                    "dishName": "Trái cây",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b2"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c98c0be4e221c960048aa"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-27T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b4"
+                    }
+                },
+                {
+                    "dishName": "Xôi gấc",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b5"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b6"
+                    }
+                },
+                {
+                    "dishName": "Thịt bò xào rau",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b7"
+                    }
+                },
+                {
+                    "dishName": "Canh bí đỏ",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b8"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo thịt nạc",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048b9"
+                    }
+                },
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c98c0be4e221c960048ba"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c98c0be4e221c960048b3"
+            }
+        }
+    ],
+    "createdAt": {
+        "$date": "2025-07-20T07:16:17.926Z"
+    },
+    "__v": 0
+},
+{
+    "_id": {
+        "$oid": "687c9a55be4e221c96004f7d"
+    },
+    "weekStart": {
+        "$date": "2025-07-14T00:00:00Z"
+    },
+    "ageCategory": 2,
+    "dailyMenus": [
+        {
+            "date": {
+                "$date": "2025-07-14T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f7e"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-15T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f7f"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-16T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f80"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-17T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f81"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-18T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f82"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-19T00:00:00Z"
+            },
+            "breakfast": [],
+            "lunch": [],
+            "dinner": [],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f83"
+            }
+        },
+        {
+            "date": {
+                "$date": "2025-07-20T00:00:00Z"
+            },
+            "breakfast": [
+                {
+                    "dishName": "Sữa",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f85"
+                    }
+                },
+                {
+                    "dishName": "Bánh bao",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f86"
+                    }
+                },
+                {
+                    "dishName": "Cam",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f87"
+                    }
+                }
+            ],
+            "lunch": [
+                {
+                    "dishName": "Cơm",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f88"
+                    }
+                },
+                {
+                    "dishName": "Gà rang",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f89"
+                    }
+                },
+                {
+                    "dishName": "Canh cải ngọt",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f8a"
+                    }
+                }
+            ],
+            "dinner": [
+                {
+                    "dishName": "Cháo tôm",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f8b"
+                    }
+                },
+                {
+                    "dishName": "Trứng cút",
+                    "_id": {
+                        "$oid": "687c9a55be4e221c96004f8c"
+                    }
+                }
+            ],
+            "_id": {
+                "$oid": "687c9a55be4e221c96004f84"
+            }
+        }
+    ],
+    "createdAt": {
+        "$date": "2025-07-20T07:27:17.512Z"
+    },
+    "__v": 0
+}
+]

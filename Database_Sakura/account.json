@@ -1,0 +1,34 @@
+[
+{
+    "_id": {
+        "$oid": "6846806fa97117e92f341452"
+    },
+    "username": "Staff",
+    "password": "$2b$10$TjYlaS9iVBNUCH25cSbmKOZeOEeJjdlczXKqGOlhCgKPPwBVBfBTW",
+    "role": "principal",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-06-23T10:22:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-06-23T10:22:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "6846806fa97117e92f34142f"
+    },
+    "username": "admin",
+    "password": "$2b$10$wOdhDqZLxgYxpiz6rvJskOKqDdpbhLdQTYMK4i/wTGhoA7XN2bUzq",
+    "role": "admin",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-06-09T06:34:23.738Z"
+    },
+    "updatedAt": {
+        "$date": "2025-06-24T08:08:11.616Z"
+    },
+    "OTPnumber": null,
+    "exprire_in": null
+}
+]

@@ -1,0 +1,875 @@
+[
+{
+    "_id": {
+        "$oid": "6881a4db9217acc94c0d6c70"
+    },
+    "class": {
+        "$oid": "687bc2e90628875889879625"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:31.250Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:31.250Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4db9217acc94c0d6c71"
+    },
+    "class": {
+        "$oid": "687bc2e90628875889879626"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:31.602Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:31.602Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dc9217acc94c0d6c72"
+    },
+    "class": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:31.919Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:31.919Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dc9217acc94c0d6c73"
+    },
+    "class": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:32.283Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:32.283Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dc9217acc94c0d6c74"
+    },
+    "class": {
+        "$oid": "687bc2e9062887588987962e"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:32.679Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:32.679Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dd9217acc94c0d6c75"
+    },
+    "class": {
+        "$oid": "687bc2e90628875889879629"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:32.982Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:32.982Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dd9217acc94c0d6c76"
+    },
+    "class": {
+        "$oid": "687bc2e9062887588987962a"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:33.287Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:33.287Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dd9217acc94c0d6c77"
+    },
+    "class": {
+        "$oid": "687bc2e9062887588987962b"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:33.593Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:33.593Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+},
+{
+    "_id": {
+        "$oid": "6881a4dd9217acc94c0d6c78"
+    },
+    "class": {
+        "$oid": "687bc2e9062887588987962c"
+    },
+    "schoolYear": "2025-2026",
+    "createdAt": {
+        "$date": "2025-07-24T03:13:33.898Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T03:13:33.898Z"
+    },
+    "schedule": {
+        "Monday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Tuesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Wednesday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Thursday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ],
+        "Friday": [
+            {
+                "time": "04:00-05:00",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcf66a6d6286fa2252bf2"
+                }
+            },
+            {
+                "time": "09:00-09:30",
+                "fixed": true,
+                "curriculum": {
+                    "$oid": "687bcd77a6d6286fa2252b20"
+                }
+            }
+        ]
+    }
+}
+]

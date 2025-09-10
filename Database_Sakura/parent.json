@@ -1,0 +1,34 @@
+[
+{
+    "_id": {
+        "$oid": "687bbffc68b9c3b405a0d858"
+    },
+    "fullName": "Bùi Trung Thịnh",
+    "dob": {
+        "$date": "2025-10-07T00:00:00Z"
+    },
+    "phoneNumber": "0913339702",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "015203001123",
+    "gender": "Nữ",
+    "account": {
+        "$oid": "687bbffc68b9c3b405a0d856"
+    },
+    "student": [
+        {
+            "$oid": "687bbffb68b9c3b405a0d853"
+        },
+        {
+            "$oid": "687bc0f668b9c3b405a0d87b"
+        }
+    ],
+    "address": "Hà Nội2",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T15:55:40.925Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T06:16:02.163Z"
+    }
+}
+]

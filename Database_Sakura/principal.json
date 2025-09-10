@@ -1,0 +1,36 @@
+[
+{
+    "_id": {
+        "$oid": "685f91eaed1e6ad015d1cfc1"
+    },
+    "fullName": "Hiệu Trưởng Kiên",
+    "dob": "1980-05-15T00:00:00.000Z",
+    "phoneNumber": 84901234567,
+    "email": "kiend1364@gmail.com",
+    "IDCard": "012345678",
+    "gender": "male",
+    "account": {
+        "$oid": "6846806fa97117e92f341452"
+    },
+    "address": "123 Đường Lê Lợi, Quận 1, TP.HCM",
+    "status": true,
+    "image": "https://example.com/images/nguyenvanan.jpg"
+},
+{
+    "_id": {
+        "$oid": "685f9234ed1e6ad015d1cfc7"
+    },
+    "fullName": "Admin System",
+    "dob": "1980-05-15T00:00:00.000Z",
+    "phoneNumber": 84901234567,
+    "email": "kienp1804@gmail.com",
+    "IDCard": "012345678",
+    "gender": "male",
+    "account": {
+        "$oid": "6846806fa97117e92f34142f"
+    },
+    "address": "123 Đường Lê Lợi, Quận 1, TP.HCM",
+    "status": true,
+    "image": "https://example.com/images/nguyenvanan.jpg"
+}
+]

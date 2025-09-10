@@ -1,0 +1,211 @@
+[
+{
+    "_id": "687bb62c39dbff022d1451d4",
+    "fullName": "Vũ Bích Phương",
+    "dob": "1996-06-19T00:00:00.000Z",
+    "phoneNumber": 867281968,
+    "email": "phuongvb2@gmail.com",
+    "IDCard": 1203027865,
+    "gender": "female",
+    "account": {
+        "$oid": "6846806fa97117e92f341451"
+    },
+    "address": "123, Yên Bái, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",
+    "status": true,
+    "createdAt": "2025-07-19T15:13:48.064Z",
+    "updatedAt": "2025-07-19T15:13:48.064Z"
+},
+{
+    "_id": "687bb67939dbff022d1451d7",
+    "fullName": "Nguyễn Xuân Mai",
+    "dob": "1993-06-19T00:00:00.000Z",
+    "phoneNumber": 913048468,
+    "email": "maixn5@gmail.com",
+    "IDCard": 5478896254,
+    "gender": "female",
+    "address": "122, Yên Bái, Xã Vĩnh Khánh, Huyện Thoại Sơn, An Giang",
+    "status": true,
+    "createdAt": "2025-07-19T15:15:05.770Z",
+    "updatedAt": "2025-07-19T15:15:05.770Z"
+},
+{
+    "_id": "687bb6c239dbff022d1451da",
+    "fullName": "Bùi Thị Cẩm Hằng",
+    "dob": "1999-10-19T00:00:00.000Z",
+    "phoneNumber": 658741256,
+    "email": "hangbct3@gmail.com",
+    "IDCard": 2569856321,
+    "gender": "female",
+    "address": "144, Hà tĩnh, Xã Phước Sang, Huyện Phú Giáo, Bình Dương",
+    "status": true,
+    "createdAt": "2025-07-19T15:16:18.186Z",
+    "updatedAt": "2025-07-19T15:16:18.186Z"
+},
+{
+    "_id": {
+        "$oid": "687bdcd7465e327f0a625dab"
+    },
+    "fullName": "Phạm Duy Kiên",
+    "dob": {
+        "$date": "2003-11-19T00:00:00Z"
+    },
+    "phoneNumber": "0913048469",
+    "email": "kiend1364@gmail.com",
+    "IDCard": "00125365478",
+    "gender": "male",
+    "address": "123 Yên bái3, Xã Cổ Đô, Huyện Ba Vì, Hà Nội",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T17:58:47.731Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T05:36:56.449Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cb4bbad35f4f91e83caec"
+    },
+    "fullName": "Bùi Trung Hiếu",
+    "dob": {
+        "$date": "2000-06-20T00:00:00Z"
+    },
+    "phoneNumber": "0913339890",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "015203123456",
+    "gender": "male",
+    "account": {
+        "$oid": "687cb4bbad35f4f91e83caea"
+    },
+    "address": "90 Hòa Bình, Xã Bình Hòa, Huyện Châu Thành, An Giang",
+    "status": false,
+    "createdAt": {
+        "$date": "2025-07-20T09:19:55.789Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T09:21:11.740Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cb5408bdfadebfae19e02"
+    },
+    "fullName": "Nguyễn Duy Tùng",
+    "dob": {
+        "$date": {
+            "$numberLong": "-713491200000"
+        }
+    },
+    "phoneNumber": "0913339709",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "12442423412",
+    "gender": "male",
+    "account": {
+        "$oid": "687cb53f8bdfadebfae19e00"
+    },
+    "address": "90 Hòa bình, Thị trấn Cờ Đỏ, Huyện Cờ Đỏ, Cần Thơ",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-20T09:22:08.156Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T09:22:08.156Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cb62b139e0cab1fceb0f7"
+    },
+    "fullName": "Nguyễn Mạnh Khải",
+    "dob": {
+        "$date": "1989-06-20T00:00:00Z"
+    },
+    "phoneNumber": "1234123545",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "12442423412",
+    "gender": "male",
+    "account": {
+        "$oid": "687cb62a139e0cab1fceb0f5"
+    },
+    "address": "90 Hoa Binh, Xã Vĩnh Bình, Huyện Hoà Bình, Bạc Liêu",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-20T09:26:03.293Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T09:26:03.293Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cb7064ae5389be4226494"
+    },
+    "fullName": "Hà Văn Cường",
+    "dob": {
+        "$date": "1995-06-20T00:00:00Z"
+    },
+    "phoneNumber": "124231435",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "12442423412",
+    "gender": "male",
+    "account": {
+        "$oid": "687cb7064ae5389be4226492"
+    },
+    "address": "test, Xã Ninh Thạnh Lợi, Huyện Hồng Dân, Bạc Liêu",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-20T09:29:42.957Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T09:29:42.957Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cb83891eb157d7421c923"
+    },
+    "fullName": "Nguyễn Ngọc Phúc",
+    "dob": {
+        "$date": "1995-06-20T00:00:00Z"
+    },
+    "phoneNumber": "0913339709",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "12442423412",
+    "gender": "male",
+    "account": {
+        "$oid": "687cb83591eb157d7421c91e"
+    },
+    "address": "123, Xã Khám Lạng, Huyện Lục Nam, Bắc Giang",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-20T09:34:48.017Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T09:34:48.017Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "fullName": "Nguyễn Lạc Huy",
+    "dob": {
+        "$date": "1996-12-06T00:00:00Z"
+    },
+    "phoneNumber": "0913339809",
+    "email": "trunghieubui866@gmail.com",
+    "IDCard": "12442423412",
+    "gender": "male",
+    "account": {
+        "$oid": "687cb9a3b7dd6dd6844a9940"
+    },
+    "address": "123 Hoa Binh, Xã Phước An, Huyện Hớn Quản, Bình Phước",
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-20T09:40:54.096Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T06:20:40.663Z"
+    }
+}
+]

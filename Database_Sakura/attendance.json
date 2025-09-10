@@ -1,0 +1,1352 @@
+[
+{
+    "_id": {
+        "$oid": "687bda4e465e327f0a625cc9"
+    },
+    "classId": {
+        "$oid": "687bc2e9062887588987962d"
+    },
+    "studentId": {
+        "$oid": "687bbb074a600c6da86d93ae"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bda4e465e327f0a625cca"
+    },
+    "classId": {
+        "$oid": "687bc2e9062887588987962d"
+    },
+    "studentId": {
+        "$oid": "687bbffb68b9c3b405a0d853"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bda4e465e327f0a625ccb"
+    },
+    "classId": {
+        "$oid": "687bc2e9062887588987962d"
+    },
+    "studentId": {
+        "$oid": "687bc0f668b9c3b405a0d87b"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bda4e465e327f0a625ccc"
+    },
+    "classId": {
+        "$oid": "687bc2e9062887588987962d"
+    },
+    "studentId": {
+        "$oid": "687bbb044a600c6da86d93a2"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-19T17:47:58.369Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f30"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "d1b6e61fe2b02df866b7beb6"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.118Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.118Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f31"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "c415d2baddf53c7e5b6e1519"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f32"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "aaef77cd2fdd5516afb9ca9a"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f33"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "becdae12b9b7c9a1eaa1ddfe"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f34"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "4b9b1f2efc4e7cce5c61ff77"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f35"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "a2273a4906e930a935c4e0bf"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f36"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "0ba5dd04a07b8dec72cf426b"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f37"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "12def19a4dbbbba0caf3e381"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f38"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "23c38db3e8aac2c61dced80c"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.119Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc6c15b34b3b5aa414f39"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "studentId": {
+        "$oid": "d4c4ec60dcbbd2413facd72c"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:36:49.120Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:36:49.120Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa414ffe"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "635afc38c876cdecab3ab8ab"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa414fff"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "aea2e05db3acfa6cfbd95b3a"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415000"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "355d64201b1c0bddae6cce09"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415001"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "6bd25b2bdbcebb86bdf0e82c"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415002"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "3710fa925780fc3aab8f7daa"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415003"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "e4d1f58a3dfe8f3eaab8ecd6"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415004"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "ab3ead1f9eef49c7d4adc2cf"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415005"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "4a33aff22c53fde6e8acec2c"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415006"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "27cfc743292aa54b0227dbe5"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687cc7585b34b3b5aa415007"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "1d4afb0ee1a7b0dadc57835d"
+    },
+    "teacherId": {
+        "$oid": "687cb9a6b7dd6dd6844a9945"
+    },
+    "date": "2025-07-20",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-20T10:39:20.483Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb3"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "635afc38c876cdecab3ab8ab"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb4"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "aea2e05db3acfa6cfbd95b3a"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb5"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "355d64201b1c0bddae6cce09"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb6"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "6bd25b2bdbcebb86bdf0e82c"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.875Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb7"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "3710fa925780fc3aab8f7daa"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb8"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "e4d1f58a3dfe8f3eaab8ecd6"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bb9"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "ab3ead1f9eef49c7d4adc2cf"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bba"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "4a33aff22c53fde6e8acec2c"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bbb"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "27cfc743292aa54b0227dbe5"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687e58d643d9deba9de04bbc"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "1d4afb0ee1a7b0dadc57835d"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-21",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-21T15:12:22.876Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88dd"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "635afc38c876cdecab3ab8ab"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.993Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.993Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88de"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "aea2e05db3acfa6cfbd95b3a"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88df"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "355d64201b1c0bddae6cce09"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e0"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "6bd25b2bdbcebb86bdf0e82c"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e1"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "3710fa925780fc3aab8f7daa"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e2"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "e4d1f58a3dfe8f3eaab8ecd6"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e3"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "ab3ead1f9eef49c7d4adc2cf"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e4"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "4a33aff22c53fde6e8acec2c"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e5"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "27cfc743292aa54b0227dbe5"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fb745529d1ea127bd88e6"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "1d4afb0ee1a7b0dadc57835d"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-22",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T16:07:33.994Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b695"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "635afc38c876cdecab3ab8ab"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "sick",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b696"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "aea2e05db3acfa6cfbd95b3a"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b697"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "355d64201b1c0bddae6cce09"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b698"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "6bd25b2bdbcebb86bdf0e82c"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b699"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "3710fa925780fc3aab8f7daa"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b69a"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "e4d1f58a3dfe8f3eaab8ecd6"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "sick",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b69b"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "ab3ead1f9eef49c7d4adc2cf"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "present",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b69c"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "4a33aff22c53fde6e8acec2c"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "leave",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b69d"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "27cfc743292aa54b0227dbe5"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "present",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687fc759b52b14155ef0b69e"
+    },
+    "classId": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "studentId": {
+        "$oid": "1d4afb0ee1a7b0dadc57835d"
+    },
+    "teacherId": {
+        "$oid": "687bb62c39dbff022d1451d4"
+    },
+    "date": "2025-07-23",
+    "status": "absent",
+    "checkInTime": "",
+    "checkOutTime": "",
+    "note": "",
+    "createdAt": {
+        "$date": "2025-07-22T17:16:09.352Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-22T17:24:45.406Z"
+    }
+}
+]

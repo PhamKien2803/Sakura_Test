@@ -1,0 +1,187 @@
+[
+  {
+    "name": "ACCESS_TOKEN_SECRET",
+    "value": "wdp_301",
+    "slotSetting": true
+  },
+  {
+    "name": "API_ENVIRONMENT_AVAILABLE",
+    "value": "CLOUDINARY_URL=cloudinary://647792958675159:0nJzFgirDyyWExTsQXd9a3YnznY@ddhgvsthi",
+    "slotSetting": true
+  },
+  {
+    "name": "API_ENVIRONMENT_AVAILABLE=CLOUDINARY_URL",
+    "value": "cloudinary://647792958675159:0nJzFgirDyyWExTsQXd9a3YnznY@ddhgvsthi",
+    "slotSetting": true
+  },
+  {
+    "name": "API_KEY",
+    "value": "647792958675159",
+    "slotSetting": true
+  },
+  {
+    "name": "API_SECRET",
+    "value": "0nJzFgirDyyWExTsQXd9a3YnznY",
+    "slotSetting": true
+  },
+  {
+    "name": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+    "value": "InstrumentationKey=aabd7550-c8cc-4345-ad66-eb77f091d8b4;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=7eaa2bbe-6bc3-4669-896e-b6633283785c",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobsStorage",
+    "value": "DefaultEndpointsProtocol=https;AccountName=sakuragroupa482;AccountKey=vDcAlfPnHGAoDr21ZuVQvMnY4i3codOco7OTKSwaNEYCpHCNhSDxD0dHU1/H+4iJitALKxP663Xj+AStCAEPGw==;EndpointSuffix=core.windows.net",
+    "slotSetting": false
+  },
+  {
+    "name": "CLIENT_URL",
+    "value": "http://localhost:5173",
+    "slotSetting": true
+  },
+  {
+    "name": "CLOUD_NAME",
+    "value": "ddhgvsthi",
+    "slotSetting": true
+  },
+  {
+    "name": "EMAIL_PASS",
+    "value": "wyef zihr peyj dpvz",
+    "slotSetting": true
+  },
+  {
+    "name": "EMAIL_USER",
+    "value": "kidmanagesystem.2025@gmail.com",
+    "slotSetting": true
+  },
+  {
+    "name": "FROM_STMP",
+    "value": "kidmanagesystem.2025 <kidmanagesystem.2025@gmail.com>",
+    "slotSetting": true
+  },
+  {
+    "name": "FUNCTIONS_EXTENSION_VERSION",
+    "value": "~4",
+    "slotSetting": false
+  },
+  {
+    "name": "FUNCTIONS_WORKER_RUNTIME",
+    "value": "node",
+    "slotSetting": false
+  },
+  {
+    "name": "GEMINI_API_KEY",
+    "value": "AIzaSyBAR53SRWbrRHC8Ie_PH6621X44QHHgdGE",
+    "slotSetting": true
+  },
+  {
+    "name": "HOST_IMAP",
+    "value": "imap.gmail.com",
+    "slotSetting": true
+  },
+  {
+    "name": "HOST_SMTP",
+    "value": "smtp.gmail.com",
+    "slotSetting": true
+  },
+  {
+    "name": "JWT_EXPIRES_IN",
+    "value": "7d",
+    "slotSetting": true
+  },
+  {
+    "name": "JWT_REFRESH_TOKEN_EXPIRES_IN",
+    "value": "30d",
+    "slotSetting": true
+  },
+  {
+    "name": "JWT_SECRET_KEY",
+    "value": "WDP301_Kids_System",
+    "slotSetting": true
+  },
+  {
+    "name": "MAXCONNECTIONS",
+    "value": "3",
+    "slotSetting": true
+  },
+  {
+    "name": "MONGO_DB",
+    "value": "WDP301_Kids_System",
+    "slotSetting": true
+  },
+  {
+    "name": "MONGO_HOST",
+    "value": "clusterkids.p2dfd4v.mongodb.net",
+    "slotSetting": true
+  },
+  {
+    "name": "MONGO_NAME",
+    "value": "Sakura_Kids",
+    "slotSetting": true
+  },
+  {
+    "name": "MONGO_PASS",
+    "value": "BZRng3e9CTcWCfmR",
+    "slotSetting": true
+  },
+  {
+    "name": "MONGO_URI",
+    "value": "mongodb+srv://dbuser:Kien28102003%40%40@your-nodejs-backend-mongo.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000",
+    "slotSetting": true
+  },
+  {
+    "name": "MONGO_USER",
+    "value": "kiend1364",
+    "slotSetting": true
+  },
+  {
+    "name": "PORT",
+    "value": "9999",
+    "slotSetting": true
+  },
+  {
+    "name": "PORT_IMAP",
+    "value": "993",
+    "slotSetting": true
+  },
+  {
+    "name": "PORT_SMTP",
+    "value": "587",
+    "slotSetting": true
+  },
+  {
+    "name": "REDIS_HOST",
+    "value": "redis-10299.c10.us-east-1-4.ec2.redns.redis-cloud.com",
+    "slotSetting": true
+  },
+  {
+    "name": "REDIS_PASSWORD",
+    "value": "lpjkCzy8rAqUaUCZ7wA4xqjooRt4BQGT",
+    "slotSetting": true
+  },
+  {
+    "name": "REDIS_PORT",
+    "value": "10299",
+    "slotSetting": true
+  },
+  {
+    "name": "TLS",
+    "value": "true",
+    "slotSetting": true
+  },
+  {
+    "name": "TLS_SMTP",
+    "value": "true",
+    "slotSetting": true
+  },
+  {
+    "name": "WEBSITE_NODE_DEFAULT_VERSION",
+    "value": "~22",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_RUN_FROM_PACKAGE",
+    "value": "1",
+    "slotSetting": false
+  }
+]

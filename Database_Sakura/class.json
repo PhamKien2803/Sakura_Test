@@ -1,0 +1,699 @@
+[
+{
+    "_id": {
+        "$oid": "687bc1e34855c1798d0d7050"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "4c61a95abfb29dd4abeaa3cf"
+        },
+        {
+            "$oid": "e0aad517187be95ded8bf7a1"
+        },
+        {
+            "$oid": "89e1ffc4f74d90bfacd1b9f2"
+        },
+        {
+            "$oid": "d56a9016f0caa94a5b14d843"
+        },
+        {
+            "$oid": "b7ee3bfada2d562178903f8c"
+        },
+        {
+            "$oid": "d78ba1dcdfa2ef0eee5bd60e"
+        },
+        {
+            "$oid": "0c72bde16bb4fc9be5f9caa3"
+        },
+        {
+            "$oid": "7adcf5fe597e7c2fbfee215d"
+        },
+        {
+            "$oid": "e123de6fc9dffcffd564c5cf"
+        },
+        {
+            "$oid": "a69942b5ebe7b68f2ebe65d6"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "1A",
+    "classAge": "1",
+    "room": {
+        "$oid": "cf5b6b13de4cbd03c428dca8"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e44855c1798d0d7051"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "aabf42a4439a81a5e1e7a5c0"
+        },
+        {
+            "$oid": "adccceae51f9bf7dfb398fd1"
+        },
+        {
+            "$oid": "29bd8a4a9f6df8cbfdc0f7a0"
+        },
+        {
+            "$oid": "c4a5fbdbae85e0ac24ec4f5b"
+        },
+        {
+            "$oid": "c9ac7ecccbbd4baadd8c6d88"
+        },
+        {
+            "$oid": "702630b4d8ececde55da1a06"
+        },
+        {
+            "$oid": "4bfe8d433e6faef6a40fbd17"
+        },
+        {
+            "$oid": "fb1ecc575a90a2778b1b0fbe"
+        },
+        {
+            "$oid": "dc1a0edeece32ead9ad9dc4a"
+        },
+        {
+            "$oid": "6f194dbc16e164583ca66cbd"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "1B",
+    "classAge": "1",
+    "room": {
+        "$oid": "3d56b4ea4acb73ed9f5dcd74"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e44855c1798d0d7052"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "635afc38c876cdecab3ab8ab"
+        },
+        {
+            "$oid": "aea2e05db3acfa6cfbd95b3a"
+        },
+        {
+            "$oid": "355d64201b1c0bddae6cce09"
+        },
+        {
+            "$oid": "6bd25b2bdbcebb86bdf0e82c"
+        },
+        {
+            "$oid": "3710fa925780fc3aab8f7daa"
+        },
+        {
+            "$oid": "e4d1f58a3dfe8f3eaab8ecd6"
+        },
+        {
+            "$oid": "ab3ead1f9eef49c7d4adc2cf"
+        },
+        {
+            "$oid": "4a33aff22c53fde6e8acec2c"
+        },
+        {
+            "$oid": "27cfc743292aa54b0227dbe5"
+        },
+        {
+            "$oid": "1d4afb0ee1a7b0dadc57835d"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "2A",
+    "classAge": "2",
+    "room": {
+        "$oid": "ecfc6b6efe6ef2af2bc8b9ad"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e44855c1798d0d7053"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "d1b6e61fe2b02df866b7beb6"
+        },
+        {
+            "$oid": "c415d2baddf53c7e5b6e1519"
+        },
+        {
+            "$oid": "aaef77cd2fdd5516afb9ca9a"
+        },
+        {
+            "$oid": "becdae12b9b7c9a1eaa1ddfe"
+        },
+        {
+            "$oid": "4b9b1f2efc4e7cce5c61ff77"
+        },
+        {
+            "$oid": "a2273a4906e930a935c4e0bf"
+        },
+        {
+            "$oid": "0ba5dd04a07b8dec72cf426b"
+        },
+        {
+            "$oid": "12def19a4dbbbba0caf3e381"
+        },
+        {
+            "$oid": "23c38db3e8aac2c61dced80c"
+        },
+        {
+            "$oid": "d4c4ec60dcbbd2413facd72c"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "2B",
+    "classAge": "2",
+    "room": {
+        "$oid": "e75026af543b7a83eadaccbc"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e44855c1798d0d7054"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "1c69afd3e472aae3dab2469d"
+        },
+        {
+            "$oid": "7f6e59d8c0141aacc3aaea10"
+        },
+        {
+            "$oid": "be558af8eac51f2e0ccb49e7"
+        },
+        {
+            "$oid": "a1bde5fd2ee99a7133df4dab"
+        },
+        {
+            "$oid": "a7c40d49cd73146f56dea5fe"
+        },
+        {
+            "$oid": "f1e9446b9ffce02cfee5af6e"
+        },
+        {
+            "$oid": "37ec22afeab9bd6192038ffe"
+        },
+        {
+            "$oid": "17b5ddcfa3eeec2dcb4d6efd"
+        },
+        {
+            "$oid": "ba006feaa1d9f86e1eac91de"
+        },
+        {
+            "$oid": "9d0ba4cf029b2ec8ebcc772b"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "3A",
+    "classAge": "3",
+    "room": {
+        "$oid": "0b5ca7c9ae44d7dfdb9a1beb"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e54855c1798d0d7055"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "bd3efb5db5d8c3fca97e964f"
+        },
+        {
+            "$oid": "b0d5ffc5c3ab02eab29e4a7e"
+        },
+        {
+            "$oid": "17e655cf9cb4ca8cddc49b9b"
+        },
+        {
+            "$oid": "dcf6bd46b5786522f4a0fd8b"
+        },
+        {
+            "$oid": "cd5a9f8ad27cc36ae7ddb64b"
+        },
+        {
+            "$oid": "f9f922a2f2c3cf0eccfd2b9f"
+        },
+        {
+            "$oid": "1fdaf08aafca8ecb314a36cb"
+        },
+        {
+            "$oid": "d34d33badad3f4ad248bfe20"
+        },
+        {
+            "$oid": "68fdba09f4abaadd35186ce7"
+        },
+        {
+            "$oid": "fd6ec9a91bf1221cbabc29f1"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "3B",
+    "classAge": "3",
+    "room": {
+        "$oid": "816751222ada5eacb99f36fa"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e54855c1798d0d7056"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "e9baacdffe355cbf94cfc09a"
+        },
+        {
+            "$oid": "6cd7bcd1aae3d661deae5ed3"
+        },
+        {
+            "$oid": "30d5ac41fb7e669ef9eacf7d"
+        },
+        {
+            "$oid": "25dca50f3aa688dc033420be"
+        },
+        {
+            "$oid": "c0ce89df0b9975e56aeeb9f3"
+        },
+        {
+            "$oid": "acc1e6ff22cae2cbdcab3ecd"
+        },
+        {
+            "$oid": "905e4ab1388be749eaf06690"
+        },
+        {
+            "$oid": "fbea38795d5ba0e438de2c3e"
+        },
+        {
+            "$oid": "e569416f4fde2c9e2b61eea0"
+        },
+        {
+            "$oid": "e17b1f639dc8b6fbadc5ca01"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "4A",
+    "classAge": "4",
+    "room": {
+        "$oid": "3d37ab66fa1bbe3a90e4ec4c"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e54855c1798d0d7058"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "b3fe0c18408533cfcdfd3bed"
+        },
+        {
+            "$oid": "936cae1a8ef2d8d3fa61fca0"
+        },
+        {
+            "$oid": "daeb8fabfa81cf7b8296bddc"
+        },
+        {
+            "$oid": "e9ddfd386ce5c6a0aadaceeb"
+        },
+        {
+            "$oid": "acc6fe4acaf1c29baede3ebd"
+        },
+        {
+            "$oid": "76c1ea01c08a2dacdd2ab56f"
+        },
+        {
+            "$oid": "fd5cc7b920627df5ee528f30"
+        },
+        {
+            "$oid": "bef94ed669d6c0f1246a8e3e"
+        },
+        {
+            "$oid": "2f968a1b4cbeeeaafdcee6fc"
+        },
+        {
+            "$oid": "ff2591d1b4b8fbcb6aaf1fee"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "5A",
+    "classAge": "5",
+    "room": {
+        "$oid": "d0d922f5e10dad23acac1ddb"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e54855c1798d0d7059"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "9c2d52e6dd4e0adf4adcfb6d"
+        },
+        {
+            "$oid": "d0c1cafa229f24363deddfb2"
+        },
+        {
+            "$oid": "150b9dadc369aa0abd5d5a1e"
+        },
+        {
+            "$oid": "6cb11c5d36edbffbac42d70d"
+        },
+        {
+            "$oid": "3eeaff9bc5edc5dcdaac763f"
+        },
+        {
+            "$oid": "1d1cca8e78ff12f47efcabfe"
+        },
+        {
+            "$oid": "ecdfcddcfab28dd7e0bdeaa6"
+        },
+        {
+            "$oid": "ddca2c4ed2da4cfe9c717daf"
+        },
+        {
+            "$oid": "7e81cab52bbefaf2c4ffd56b"
+        },
+        {
+            "$oid": "bbc7968af6a4a66e17bdcbd8"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "5B",
+    "classAge": "5",
+    "room": {
+        "$oid": "fbb1e0bbf1998b3ad0f1c247"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e9062887588987962a"
+    },
+    "teacher": [
+        {
+            "$oid": "687bb67939dbff022d1451d7"
+        },
+        {
+            "$oid": "687cb62b139e0cab1fceb0f7"
+        }
+    ],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "4B",
+    "classAge": "4",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8818"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.279Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:30:54.093Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e9062887588987962e"
+    },
+    "teacher": [],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "3C",
+    "classAge": "3",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8802"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.279Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:46:35.182Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e9062887588987962b"
+    },
+    "teacher": [],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "5A",
+    "classAge": "5",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8819"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.279Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:30:46.968Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e9062887588987962c"
+    },
+    "teacher": [
+        {
+            "$oid": "687cb83891eb157d7421c923"
+        }
+    ],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "5B",
+    "classAge": "5",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8810"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.279Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:37:40.294Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e90628875889879627"
+    },
+    "teacher": [
+        {
+            "$oid": "687bb62c39dbff022d1451d4"
+        },
+        {
+            "$oid": "687bdcd7465e327f0a625dab"
+        }
+    ],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "3A",
+    "classAge": "3",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8817"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.278Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:38:05.788Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e90628875889879629"
+    },
+    "teacher": [],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "4A",
+    "classAge": "4",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8815"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.279Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:30:37.531Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc1e54855c1798d0d7057"
+    },
+    "teacher": [],
+    "students": [
+        {
+            "$oid": "af90adbaebb74a5d9ac3a9dd"
+        },
+        {
+            "$oid": "9fb5dc55d7e90ed8fb2a10af"
+        },
+        {
+            "$oid": "7cc4c3abc8eacd724a63ae4f"
+        },
+        {
+            "$oid": "d91f8e73be76cbaffa1b3dad"
+        },
+        {
+            "$oid": "e737e2cae68ef2f736ed11ab"
+        }
+    ],
+    "schoolYear": "2024-2025",
+    "className": "4B",
+    "classAge": "4",
+    "room": {
+        "$oid": "045d2bdda9ce7ffd51a0cdbc"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-10T09:00:00Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:48:20.146Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e90628875889879628"
+    },
+    "teacher": [
+        {
+            "$oid": "687cb9a6b7dd6dd6844a9945"
+        }
+    ],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "3B",
+    "classAge": "3",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8814"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.278Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:30:31.464Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e90628875889879626"
+    },
+    "teacher": [],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "2B",
+    "classAge": "2",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8813"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.278Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:30:21.702Z"
+    }
+},
+{
+    "_id": {
+        "$oid": "687bc2e90628875889879625"
+    },
+    "teacher": [],
+    "students": [],
+    "schoolYear": "2025-2026",
+    "className": "2A",
+    "classAge": "2",
+    "room": {
+        "$oid": "6862ba6b36004b12f00f8811"
+    },
+    "status": true,
+    "createdAt": {
+        "$date": "2025-07-19T16:08:09.277Z"
+    },
+    "updatedAt": {
+        "$date": "2025-07-24T04:31:06.178Z"
+    }
+}
+]

@@ -1,0 +1,198 @@
+[
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8801"
+    },
+    "roomName": "Phòng A1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8802"
+    },
+    "roomName": "Phòng A2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8803"
+    },
+    "roomName": "Phòng B1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8804"
+    },
+    "roomName": "Phòng B2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8805"
+    },
+    "roomName": "Phòng C1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8806"
+    },
+    "roomName": "Phòng C2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8807"
+    },
+    "roomName": "Phòng D1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8808"
+    },
+    "roomName": "Phòng D2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8809"
+    },
+    "roomName": "Phòng E1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8810"
+    },
+    "roomName": "Phòng E2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8811"
+    },
+    "roomName": "Phòng F1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8812"
+    },
+    "roomName": "Phòng F2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8813"
+    },
+    "roomName": "Phòng G1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8814"
+    },
+    "roomName": "Phòng G2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8815"
+    },
+    "roomName": "Phòng H1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8816"
+    },
+    "roomName": "Phòng H2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8817"
+    },
+    "roomName": "Phòng I1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8818"
+    },
+    "roomName": "Phòng I2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8819"
+    },
+    "roomName": "Phòng J1",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "6862ba6b36004b12f00f8820"
+    },
+    "roomName": "Phòng J2",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd65fc12d99718765dfcd"
+    },
+    "roomName": "Phòng A3",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd65fc12d99718765dfce"
+    },
+    "roomName": "Phòng A4",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd65fc12d99718765dfcf"
+    },
+    "roomName": "Phòng A5",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd65fc12d99718765dfd0"
+    },
+    "roomName": "Phòng A6",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd98cc12d99718765dfdd"
+    },
+    "roomName": "Phòng A7",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd994c12d99718765dfde"
+    },
+    "roomName": "Phòng B7",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd99bc12d99718765dfdf"
+    },
+    "roomName": "Phòng B3",
+    "status": true
+},
+{
+    "_id": {
+        "$oid": "686fd9a2c12d99718765dfe0"
+    },
+    "roomName": "Phòng B4",
+    "status": true
+}
+]
